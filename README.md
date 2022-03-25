@@ -1,5 +1,6 @@
-# firstgogo
-# 第一个C++项目
+
+# 第一个简单C++项目
+## 收悉指针 多态 c++语法
 ```c
     cout << "------Hello, world!------" << endl;
     cout << "输入你的身份" << endl;
